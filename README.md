@@ -6,7 +6,7 @@ This uses a data pack. It's recommended to use this in a superflat world as the 
 
 This uses the FABRIK (Forward And Backward Reaching Inverse Kinematics) algorithm combined with distance constraints for realtime movement.
 
-Credit:
+**Credit:**
 
 [Sebastian Lague](https://www.youtube.com/watch?v=--GB9qyZJqg)
 
@@ -14,4 +14,4 @@ Credit:
 
 [argonaut](https://www.youtube.com/watch?v=qlfh_rv6khY)
 
-vibing is not included in the data pack.
+*vibing is not included in the data pack.*
