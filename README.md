@@ -16,4 +16,4 @@ This uses the FABRIK (Forward And Backward Reaching Inverse Kinematics) algorith
 
 [argonaut](https://www.youtube.com/watch?v=qlfh_rv6khY)
 
-vibing is not included in the data pack.
+music disc resource pack not required. vibing is not included in the data pack.
